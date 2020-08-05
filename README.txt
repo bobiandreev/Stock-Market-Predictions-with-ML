@@ -1,6 +1,8 @@
+This is the code written for my final year project. The aim of the project is to predict movements of stock prices using machine learning. Two algorithms are used - an SVM and a LSTM.
+
 The LSTM and SVM files containg the implementations of the relevant algorithms. While the code generating the technical datasets is in the LSTM notebook, the code generating the fundamental dataset is in the Creating_fundamental_dataset file. 
 
-The notebooks are also available in Google Colab. I'm applying links to them shoud they need to be run. The paths in the files are set up for my Google Drive so they need to be updated.
+The notebooks are also available in Google Colab. I'm applying links to them shoud they need to be run. The paths in the files are set up for my personal Google Drive so they need to be updated.
 
 LSTM:
 https://colab.research.google.com/drive/1wqx9Zz3B0csBYpKaiMJIpO7fOXXw1Hdh?usp=sharing
